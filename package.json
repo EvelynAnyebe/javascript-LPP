@@ -1,0 +1,20 @@
+{
+  "name": "javascript-algo",
+  "version": "1.0.0",
+  "description": "In this repository, I compare javascript algorithms in terms of time taken to execute.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvelynAnyebe/javascript-algo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvelynAnyebe/javascript-algo/issues"
+  },
+  "homepage": "https://github.com/EvelynAnyebe/javascript-algo#readme"
+}
