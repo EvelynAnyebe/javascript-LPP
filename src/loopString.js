@@ -1,3 +1,4 @@
+//The slowest
 function vowelsAndConsonants(s) {
   let consonants = [];
   let vowels=[];
