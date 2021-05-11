@@ -27,4 +27,6 @@ function quickSort(arr) {
   }
 }
 
+// What is the time complexity 
+
 console.log(quickSort([0,1,2,3,4,5,6,9,10,11,12,8,7]));
